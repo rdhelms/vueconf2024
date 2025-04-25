@@ -251,7 +251,7 @@ layout: center
   <h1 v-click>Back</h1>
   <h1 v-click>to</h1>
   <h1 v-click>the</h1>
-  <h1 v-click>Future</h1>
+  <h1 v-click>Composition API</h1>
 </div>
 
 
